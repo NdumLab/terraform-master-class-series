@@ -34,6 +34,9 @@
 
 ## 3. Language syntax:
 **a) What are terraform top level blocks?**
+Terraform blocks  allow you to declare resources, providers, variables, outputs,
+and other configuration elements within your Terraform code.
+
 - Terraform settings block
 - Provider block
 - Resource block
